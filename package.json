@@ -1,0 +1,26 @@
+{
+  "name": "seajs-compress",
+  "version": "0.1.1",
+  "description": "compressing seajs module files by google closure compiler and ignore the keyword \"require\"",
+  "main": "seajs-compress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webryan/seajs-compress"
+  },
+  "keywords": [
+    "seajs",
+    "require",
+    "keyword",
+    "ignore",
+    "compress",
+    "compiler"
+  ],
+  "dependencies": {
+        "closure-compiler": "*"
+  },
+  "author": "webryan",
+  "license": "BSD"
+}
